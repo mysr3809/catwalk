@@ -1,4 +1,5 @@
-'use strict';
+'use strict'
+
 
 const STEP_SIZE_PX = 10;
 const STEP_INTERVAL_MS = 50;
